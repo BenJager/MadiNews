@@ -1,5 +1,5 @@
 # MadiNews
-
+Sélectionner la branch master sur github pour voir les fichiers.
 
 # Conseil d'utilisation
 
